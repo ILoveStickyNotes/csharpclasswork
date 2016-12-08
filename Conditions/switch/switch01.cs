@@ -29,7 +29,6 @@ public enum Season
   Summer,
   Winter;
 }
-
 class Program
 {
   static voic Main(string[] args)
@@ -47,7 +46,5 @@ class Program
           Console.WriteLine("I don't understand that season");
           break;
       }
-
   }
-
 }

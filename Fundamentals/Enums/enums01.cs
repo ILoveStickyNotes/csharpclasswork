@@ -23,7 +23,7 @@ namespace enumstuff
   }
 
   class Program{
-    static voic Main(string[] args)
+    static void Main(string[] args)
     {
       var method = ShippingMethod.Express;
       Console.WriteLine((int)method);
