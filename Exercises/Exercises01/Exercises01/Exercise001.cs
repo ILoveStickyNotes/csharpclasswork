@@ -14,7 +14,8 @@ namespace Exercises
         {
             var a = new Conditionals();
             var b = new Loops();
-            b.Loops5();
+            var c = new Lists();
+            c.Lists2();
         }
         
         public void Exercise1()
