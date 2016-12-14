@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Exercises
 {
@@ -10,12 +11,14 @@ namespace Exercises
         /// applications where values entered into input boxes need to be validated.)
         /// </summary>
 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var a = new Conditionals();
             var b = new Loops();
             var c = new Lists();
-            c.Lists2();
+            var d = new Strings();
+            var e = new Files();
+            e.Files2();
         }
         
         public void Exercise1()
