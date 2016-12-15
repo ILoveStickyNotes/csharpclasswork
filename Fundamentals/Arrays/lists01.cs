@@ -12,3 +12,11 @@ Count
 numbers.Add(1);
 //Adds 5,6,7 to the end of the array
 numbers.AddRange(new int[3] {5,6,7});
+
+
+public class Calculator
+{     //Params allows for multiple entries without making an array
+  public int Add(params int[] numbers){}
+}
+
+var result = calculator.Add(1,2,3,4);
