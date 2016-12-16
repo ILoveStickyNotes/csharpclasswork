@@ -20,7 +20,7 @@ public class Person
 //AutoImplemented Properties
 public class Person
 {
-
+  //Auto implemented property
   public DateTime Birthdate { get; private set; }
 
   public Person(DateTime birthdate)
@@ -43,3 +43,6 @@ public class Person
 var person = new Person(new DateTime(1982,1,1));
 //person.Birthdate = new DateTime(1982,1,1);
 Console.WriteLine(person.Age);
+
+//Type in username, problem(dropdown, -otherreason-), school, direct contact num,
+//hardware affected(dropdown studentlaptop, -other-),
