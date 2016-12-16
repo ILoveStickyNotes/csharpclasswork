@@ -1,0 +1,6 @@
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\Exercises02\Exercises02\bin\Debug\Exercises02.exe.config
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\Exercises02\Exercises02\bin\Debug\Exercises02.exe
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\Exercises02\Exercises02\bin\Debug\Exercises02.pdb
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\Exercises02\Exercises02\obj\Debug\Exercises02.csprojResolveAssemblyReference.cache
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\Exercises02\Exercises02\obj\Debug\Exercises02.exe
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\Exercises02\Exercises02\obj\Debug\Exercises02.pdb
