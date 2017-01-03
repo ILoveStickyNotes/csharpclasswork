@@ -1,0 +1,6 @@
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\DBConnection\DBConnection\obj\Debug\DBConnection.csprojResolveAssemblyReference.cache
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\BuiM1\Desktop\goworkspace\src\github.com\ILoveStickyNotes\csharpclasswork\Exercises\DBConnection\DBConnection\obj\Debug\DBConnection.pdb

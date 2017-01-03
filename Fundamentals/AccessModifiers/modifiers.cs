@@ -1,8 +1,8 @@
-Public
-Private
-Protected
-Internal
-Protected Internal
+Public - Accessible From Anywhere
+Private - Accessible only from the class
+Protected - Acessible only from the classs and derived classes *BAD Private is better*
+Internal - Acessible from same assembly
+Protected Internal -Acessible only from same assembly and derived classes *BAD*
 
 //Private variables should be like this
 private string _name;
